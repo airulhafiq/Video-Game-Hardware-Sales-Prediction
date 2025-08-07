@@ -121,38 +121,11 @@ To run this notebook locally:
    git clone https://github.com/airulhafiq/Video-Game-Hardware-Sales-Prediction.git
    cd Video-Game-Hardware-Sales-Prediction
 
-2. Install the required packages:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open the notebook:
+2. Open the notebook:
 
    ```bash
    jupyter notebook Video_Game_Hardware_Sales_Prediction_in_Python.ipynb
    ```
-
-## 🖼️ Screenshots
-
-**Data Visualization Example:**
-![Game Sold](https://drive.google.com/file/d/1w4ugB0zjeTvLmGHso1tU3uM2KsCIOhzN/view?usp=drive_link)
-
-**Model Evaluation Output:**
-
-```
-R² Score: 0.85
-RMSE: 0.67
-```
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-Feel free to reuse, adapt, or contribute.
-
----
 
 ## 🙋‍♂️ Author
 
